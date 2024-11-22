@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "476908432279",
+    "project_id": "dicoding-submission-440805",
+    "storage_bucket": "dicoding-submission-440805.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476908432279:android:0169144e59277022b272d2",
+        "android_client_info": {
+          "package_name": "com.capstone.bindetective"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476908432279-ei10snmg20m05ejr99fclun395kpebhr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capstone.bindetective",
+            "certificate_hash": "2db71318f62a20b2b93ae1434716d2f373221d27"
+          }
+        },
+        {
+          "client_id": "476908432279-5bs3vp8slj6vq7gv99mbf4a93p9cru2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDANBz7OP_94xhzdXQycLnFwomvya3kh3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476908432279-5bs3vp8slj6vq7gv99mbf4a93p9cru2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
